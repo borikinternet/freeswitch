@@ -79,7 +79,7 @@
 /*! Minimum absolute pressure/amplitude */
 #define AVMD_MIN_AMP (17.0)
 /*! Minimum beep frequency in Hertz */
-#define AVMD_MIN_FREQUENCY (440.0)
+#define AVMD_MIN_FREQUENCY (200.0)
 /*! Minimum frequency as digital normalized frequency */
 #define AVMD_MIN_FREQUENCY_R(r) ((2.0 * M_PI * AVMD_MIN_FREQUENCY) / (r))
 /*!
